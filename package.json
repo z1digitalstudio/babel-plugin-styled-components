@@ -1,6 +1,6 @@
 {
-  "version": "1.11.1",
-  "name": "babel-plugin-styled-components",
+  "version": "1.11.1-rev.1",
+  "name": "@z1digitalstudio/babel-plugin-styled-components",
   "description": "Improve the debugging experience and add server-side rendering support to styled-components",
   "repository": "styled-components/babel-plugin-styled-components",
   "contributors": [
